@@ -21,3 +21,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 -[Flutter](https://flutter.dev/?gclid=Cj0KCQjww_f2BRC-ARIsAP3zarEE3bqE6AWxyHKFhCNJTBwh89Q_ktFTvn-S0uAw324qo0gzXY0VfTUaAluTEALw_wcB&gclsrc=aw.ds)
 
 -[Dart](https://dart.dev/get-dart)
+
+
+
+
+# Desenvolvedor ![](https://github.githubassets.com/images/icons/emoji/octocat.png) 
+
+
+[<img src="https://avatars3.githubusercontent.com/u/60005436?s=400&v=4" width=115 > <br> <sub> Diogo Moreira </sub>](https://github.com/DiogoMoreira01)
