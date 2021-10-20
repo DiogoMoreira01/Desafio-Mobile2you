@@ -12,7 +12,7 @@ Utilizando a API do The Movie DB, você deverá implementar uma tela com as info
    
    
    
-    #  Sobre as tecnologias  
+    #  Sobre as tecnologias   :rocket:  
 
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
