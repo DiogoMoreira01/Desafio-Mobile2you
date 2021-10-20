@@ -1,8 +1,8 @@
-# Desafio-Mobile2you
+### Desafio-Mobile2you
 Utilizando a API do The Movie DB, você deverá implementar uma tela com as informações de algum filme da sua escolha. Não é necessário mais do que esta tela principal.
 
 
-### Tecnologias utilizadas
+# Tecnologias utilizadas
  ![Badge](https://img.shields.io/static/v1?label=Dart&message=00.0%&color=blue&style=flat&logo=)
   ![Badge](https://img.shields.io/static/v1?label=Kotlin&message=00.0%&color=orange&style=flat&logo=) 
    ![Badge](https://img.shields.io/static/v1?label=Swift&message=00.0%&color=red&style=flat&logo=) 
@@ -12,7 +12,7 @@ Utilizando a API do The Movie DB, você deverá implementar uma tela com as info
    
    
    
-    #  Tecnologias :rocket:  
+    #  Sobre as tecnologias  
 
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
