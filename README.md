@@ -3,10 +3,11 @@ Utilizando a API do The Movie DB, você deverá implementar uma tela com as info
 
 
 # Tecnologias utilizadas
- ![Badge](https://img.shields.io/static/v1?label=Dart&message=00.0%&color=blue&style=flat&logo=)
-  ![Badge](https://img.shields.io/static/v1?label=Kotlin&message=00.0%&color=orange&style=flat&logo=) 
-   ![Badge](https://img.shields.io/static/v1?label=Swift&message=00.0%&color=red&style=flat&logo=) 
-    ![Badge](https://img.shields.io/static/v1?label=Objective-C&message=00.0%&color=green&style=flat&logo=) 
+![Badge](https://img.shields.io/static/v1?label=Objective-C&message=28.7%&color=green&style=flat&logo=) 
+ ![Badge](https://img.shields.io/static/v1?label=Shell&message=24.1%&color=blue&style=flat&logo=)
+ ![Badge](https://img.shields.io/static/v1?label=Java&message=23.2%&color=green&style=flat&logo=) 
+  ![Badge](https://img.shields.io/static/v1?label=Kotlin&message=05.8%&color=orange&style=flat&logo=) 
+   ![Badge](https://img.shields.io/static/v1?label=Swift&message=18.2%&color=red&style=flat&logo=)
    ![Badge](https://img.shields.io/static/v1?label=license&message=MIT&color=success&style=flat&logo=)  
    
    
